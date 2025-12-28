@@ -20,11 +20,11 @@ On the way home, she accidentally stepped into a puddle. The water splashed up w
 
 That night, she lay in bed, her head quite empty, yet she wasn't afraid at all. There were so many things she couldn't understand.
 
-For instance, why **IGCrystal** was always surrounded by snowflakes.
+For instance, why [**IGCrystal**](https://github.com/IGCrystal) was always surrounded by snowflakes.
 
-For instance, why the books of **BayHyn** were filled with so many words she couldn't read.
+For instance, why the books of [**BayHyn**](https://github.com/BayHyn) were filled with so many words she couldn't read.
 
-For instance, why **Xirayu** always dazed off into space on rainy days.
+For instance, why [**Xirayu**](https://github.com/Xirayu) always dazed off into space on rainy days.
 
 For instance, why clouds could fly, and why the stars never fell down.
 
